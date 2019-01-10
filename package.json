@@ -1,13 +1,13 @@
 {
-  "name": "ui-theme-template",
+  "name": "grim-high-Contrast-ui",
   "theme": "ui",
   "version": "0.0.0",
-  "description": "A short description of your UI theme",
+  "description": "High-Contrast ui for Use with Bright, Vibrant Syntax.",
   "keywords": [
     "ui",
     "theme"
   ],
-  "repository": "https://github.com/atom-community/ui-theme-template",
+  "repository": "https://github.com/atom-community/grim-high-contrast-ui",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
